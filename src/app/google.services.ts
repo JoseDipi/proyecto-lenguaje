@@ -11,7 +11,7 @@ export class GoogleService {
   }
 }
 
-const url = 'https://translation.googleapis.com/language/translate/v2?key=AIzaSyD93SQumJJeCbu92UAIQHr0BUQNRQus-T8';
+const url = 'https://translation.googleapis.com/language/translate/v2?key=';
 
 export class GoogleObj {
   q: string;

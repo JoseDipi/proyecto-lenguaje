@@ -18,7 +18,7 @@ export class AppComponent {
   traduccion;
 
   public googleObj: GoogleObj = new GoogleObj();
-  public key: string = 'AIzaSyD93SQumJJeCbu92UAIQHr0BUQNRQus-T8';
+  public key: string;
   public result = ''
 
   constructor(private httpClient: HttpClient,private _google: GoogleService){}
