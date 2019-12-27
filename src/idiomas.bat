@@ -1,0 +1,1 @@
+dir /b *.html  /s> Salida.txt

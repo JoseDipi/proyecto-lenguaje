@@ -1,0 +1,2 @@
+C:\proyectos\Proyect\src\index.html
+C:\proyectos\Proyect\src\app\app.component.html
